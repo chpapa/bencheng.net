@@ -59,3 +59,11 @@ disqusShortname = "geekythings"
     name = "About"
     weight = 2
     url = "/about/"
+[[menu.main]]
+    name = "Ben.README"
+    weight = 3
+    url = "https://public.3.basecamp.com/p/TxcBFQb7FsQwYMBYBGKTL4UW"
+[[menu.main]]
+    name = "Contact me"
+    weight = 4
+    url = "/contact/me/"
