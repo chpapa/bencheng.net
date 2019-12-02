@@ -9,7 +9,7 @@ externalLink = ""
 series = []
 +++
 
-{{< figure src="/posts/images/pixelbook-desktop.jpg" caption="My Pixelbook + 27 4K mon setup">}}
+{{< figure src="/posts/images/pixelbook-desktop.webp" caption="My Pixelbook + 27 4K mon setup">}}
 
 ## Some background...
 
