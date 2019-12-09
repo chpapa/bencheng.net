@@ -12,6 +12,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "geekythings"
+googleAnalytics = "UA-2687665-1"
 
 [params]
     author = "Ben Cheng"
