@@ -61,6 +61,10 @@ googleAnalytics = "UA-2687665-1"
     weight = 2
     url = "/about/"
 [[menu.main]]
-    name = "Ben.README"
+    name = "README"
     weight = 3
     url = "https://public.3.basecamp.com/p/TxcBFQb7FsQwYMBYBGKTL4UW"
+[[menu.main]]
+    name = "Schedule with me"
+    weight = 3
+    url = "https://x.ai/calendar/bencheng"
