@@ -4,19 +4,20 @@ date: 2019-12-02T21:51:15+08:00
 draft: false
 ---
 
-My day job is running [Oursky](https://www.oursky.com), a software studio proudly based in Hong Kong, with team works remotely from 5 cities. We are driven by developers and technologies, value craftsmanship, and socially progressive.
+My day job is running [Oursky](https://www.oursky.com), a software studio with teams in Hong Kong, Taipei, London, Canada. I spend most of my time in Hong Kong and Taipei.
+
+Oursky is driven by developers and technologies, value craftsmanship, and socially progressive.
 
 Our mission is to build open source solutions to help corporate in digital transformation and help developers build secure and privacy-aware software.
 
-Oursky Professional Services team builds digital products with great user experience for clients all over the world. We provide UI/UX Design, Agile Software Development, QA-as-a-Service and Product Management services for clients ranging from rockstar startups to corporates like Standard Chartered Bank, A.S. Watson Group and Nvidia.
+Oursky Professional Services team builds digital products with great user experience for clients all over the world. We provide UI/UX Design, Agile Software Development, DevOps, Blockchain Development Services for clients ranging from rockstar startups to corporates like Standard Chartered Bank, A.S. Watson Group and Nvidia.
 
-We also have a Machine Learning team - [skylab.ai](https://skylab.ai) to provide machine learning and data warehouse services for our clients.
+We also have a Machine Learning team to provide machine learning and data warehouse services for our clients.
 
 Our products include:
 
-* Skygear Auth - an open source auth-as-a-service solution for web and mobile applications, which is developer-friendly with opinionated defaults. It includes various security features like 2FA, session management, passwordless login out of the box, and help businesses to unify its authentication experiences across multiple platforms with simple integration.
-* [FormExtractor.ai](https://formextractor.ai) - an API service to help extract structured information from mobile captured documents or forms. For example, we worked with Google to help the Li Ka Shing Foundation speed up the processing of applications for the Instant Relief Fund in 2019, by providing API which can extract information from documents such as Business Registration, Food License, etc.
-* [Gesprek](https://gesprek.chat) - an open source social commerce software for SME. We unify different chat channels such as Whatsapp, Facebook Messenger, or Email, and make it easy for sales reps to perform conversational sales with customers, by integrating with CRM and various E-Commerce platforms.
+* [Authgear](https://authgear.com) - an open source auth-as-a-service solution for web and mobile applications, which is developer-friendly with opinionated defaults. It includes various security features like 2FA, session management, passwordless login out of the box, and help businesses to unify its authentication experiences across multiple platforms with simple integration.
+* [FormX.ai](https://formx.ai) - an API service to extract structured information from mobile captured documents or forms. For example, we worked with Google to help the Li Ka Shing Foundation speed up the processing of applications for the Instant Relief Fund in 2019, by providing API which can extract information from documents such as Business Registration, Food License, etc.
 
 Besides Oursky, I severed for various non-profit related to the IT industry, or freedom, democracy, security and privacy including:
 
