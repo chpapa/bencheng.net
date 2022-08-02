@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2022-08-02T19:22:07+08:00
+date = 2022-08-02T12:00:00+08:00
 title = "Software tools I use personally daily in 2022"
 description = ""
 slug = "" 
