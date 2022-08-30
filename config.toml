@@ -68,6 +68,6 @@ googleAnalytics = "UA-2687665-1"
     weight = 3
     url = "https://oursky.notion.site/Ben-README-02bd22c28e1f41e49921c07d99169639"
 [[menu.main]]
-    name = "Schedule with me"
+    name = "Newsletter"
     weight = 3
-    url = "https://calendly.com/bencheng/"
+    url = "https://bencheng.substack.com/"
