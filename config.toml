@@ -66,7 +66,7 @@ googleAnalytics = "UA-2687665-1"
     name = "README"
     weight = 3
     url = "https://oursky.notion.site/Ben-README-02bd22c28e1f41e49921c07d99169639"
-[[menu.main]]
-    name = "Newsletter"
-    weight = 3
-    url = "https://bencheng.substack.com/"
+# [[menu.main]]
+#    name = "Newsletter"
+#    weight = 4
+#    url = "https://bencheng.substack.com/"
