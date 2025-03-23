@@ -4,39 +4,28 @@ date: 2019-12-02T21:51:15+08:00
 draft: false
 ---
 
-My day job is running [Oursky](https://www.oursky.com), a software studio with teams in Hong Kong, Taipei, London, Canada. I spend most of my time in Hong Kong and Taipei.
+My day job is running [SkyMakers Digital](https://www.skymakers.digital/), with teams in Hong Kong,
+Taipei, London and Canada. I live mostly in Taipei and Hong Kong.
 
-Oursky is driven by developers and technologies, value craftsmanship, and socially progressive.
+We are driven by developers and technologies, value craftsmanship, and socially progressive.
 
 Our mission is to build open source solutions to help corporate in digital transformation and help developers build secure and privacy-aware software.
 
-Oursky Professional Services team builds digital products with great user experience for clients all over the world. We provide UI/UX Design, Agile Software Development, DevOps, Blockchain Development Services for clients ranging from rockstar startups to corporates like Standard Chartered Bank, A.S. Watson Group and Nvidia.
+We have 3 business units:
 
-We also have a Machine Learning team to provide machine learning and data warehouse services for our clients.
+### Oursky
 
-Our products include:
+[Oursky](https://www.oursky.com) develop exceptional digital products worldwide, offering top-notch user interface and user experience (UI/UX) design, agile software development, machine learning and data engineering, QA as a Service, and product management services. Our clients range from dynamic startups to global entities such as HSBC and Nvidia.
 
-* [Authgear](https://authgear.com) - an open source auth-as-a-service solution for web and mobile applications, which is developer-friendly with opinionated defaults. It includes various security features like 2FA, session management, passwordless login out of the box, and help businesses to unify its authentication experiences across multiple platforms with simple integration.
-* [FormX.ai](https://formx.ai) - an API service to extract structured information from mobile captured documents or forms. For example, we worked with Google to help the Li Ka Shing Foundation speed up the processing of applications for the Instant Relief Fund in 2019, by providing API which can extract information from documents such as Business Registration, Food License, etc.
+### Authgear
 
-Besides Oursky, I severed for various non-profit related to the IT industry, or freedom, democracy, security and privacy including:
+[Authgear](https://authgear.com) is an open-source Identity & User Management solution for web and mobile applications. We want to empower users with better security, such as Passkeys, TOTP 2FA, and session management, in every software they use, by making these security features dead simple for developers so they don't get sacrificed due to lack of knowledge, budget, or time.
 
- * Chairman of Internet Society Hong Kong
- * Committee of Culture & Media Education Foundation
- * Elected Member, Information Technology Subsector, Election Committee of HKSAR Government
-(2012, 2016)
- * Executive Committee of Hong Kong Wireless Technology Industry Association
- * Member, IT Advisory Group of PopVote for HKUPOP
- * Preparatory Executive Committee of Creative Commons Hong Kong
- * Member, Joint Committee on Student Finance (2005 - 2006) 
+### FormX
+[FormX.ai](https://formx.ai) uses AI to automatically extract crucial information from your documents. This empowers businesses to streamline workflows and automate processes. Our platform simplifies the creation of custom data extractors for various document types. Furthermore, our AI models continuously learn from real-world examples, ensuring increasing accuracy over time. 
 
-## Contact me
+### Beyond my day job
 
-Here are a list of social media I'm active on:
-
-* chpapa at gmail.com
-* [keybase.io/bencheng](https://keybase.io/bencheng)
-* [medium.com/@chpapa](https://medium.com/@chpapa)
-* [facebook.com/chpapa](https://facebook.com/chpapa)
-* [twitter.com/chpapa](https://twitter.com/chpapa)
-
+I served as various non-profit related to the freedom, democracy, security & privacy of the
+Internet, such as Internet Society Hong Kong, Culture & Media Education Foundation, Creative
+Commons, etc.
