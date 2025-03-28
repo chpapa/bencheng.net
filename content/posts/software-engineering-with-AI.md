@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2025-03-29T19:16:25+08:00
+date = 2025-03-28T19:16:25+08:00
 title = "How Software Engineering will be like post-Transformer AI"
 description = ""
 slug = "" 
