@@ -1,6 +1,6 @@
 +++
 draft = false
-date = 2026-01-22T12:00:00+08:00
+date = 2026-01-22T02:14:46+08:00
 title = "AI Agents Are a New Form of Software"
 description = ""
 slug = ""
