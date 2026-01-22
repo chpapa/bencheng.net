@@ -1,6 +1,6 @@
 +++
 draft = false
-date = 2026-01-22T22:59:30+08:00
+date = 2026-01-22T11:14:32+08:00
 title = "I Don't Hate Writing, I Just Hate Editing"
 description = ""
 slug = ""
