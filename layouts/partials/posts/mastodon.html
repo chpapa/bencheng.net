@@ -1,0 +1,12 @@
+{{- if .Params.mastodonToot -}}
+<section class="mastodon-comments-section">
+  {{- $tootUrl := .Params.mastodonToot -}}
+  {{- $parts := split $tootUrl "/" -}}
+  {{- $tootId := index $parts (sub (len $parts) 1) -}}
+  <mastodon-comments
+    host="oursky.social"
+    user="bencheng"
+    tootId="{{ $tootId }}">
+  </mastodon-comments>
+</section>
+{{- end -}}

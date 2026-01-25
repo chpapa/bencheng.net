@@ -1,0 +1,179 @@
+/* Mastodon Comments - Aligned with hugo-coder theme */
+
+/* Override CSS variables to match theme */
+mastodon-comments {
+  --font-color: #212121;
+  --font-size: 1.8rem;
+  --block-border-width: 0;
+  --block-border-radius: 0;
+  --block-border-color: transparent;
+  --block-background-color: transparent;
+  --comment-indent: 2rem;
+}
+
+/* mastodon-title should match h2 */
+#mastodon-title {
+  font-size: 2.8rem !important;
+  line-height: 3.2rem !important;
+  font-weight: 600 !important;
+  color: #000 !important;
+  margin: 4rem 0 2.5rem 0 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, sans-serif !important;
+}
+
+/* Text inside widget should match blog content */
+.mastodon-comment .author,
+.mastodon-comment .content {
+  font-size: 1.8rem !important;
+  line-height: 1.8em !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, sans-serif !important;
+}
+
+.mastodon-comment .content p {
+  margin-bottom: 1rem !important;
+}
+
+/* Author details */
+.mastodon-comment .author .details .name {
+  color: #000 !important;
+}
+
+.mastodon-comment .author .details .user {
+  font-size: 1.6rem !important;
+  color: #1565c0 !important;
+}
+
+.mastodon-comment .author .date {
+  font-size: 1.4rem !important;
+  color: #212121 !important;
+}
+
+/* Links should match theme link color */
+.mastodon-comment a,
+.mastodon-comment .content a {
+  color: #1565c0 !important;
+  font-weight: 500 !important;
+}
+
+.mastodon-comment a:hover,
+.mastodon-comment .content a:hover {
+  text-decoration: underline !important;
+}
+
+/* Avatar size limit */
+.mastodon-comment .author .avatar img {
+  width: 60px !important;
+  height: 60px !important;
+  min-width: 60px !important;
+  margin-right: 1rem !important;
+}
+
+/* Stats styling */
+#mastodon-stats {
+  font-size: 1.8rem !important;
+}
+
+#mastodon-stats a,
+.mastodon-comment .status a {
+  color: #212121 !important;
+}
+
+/* Comment block styling - subtle background */
+.mastodon-comment {
+  background-color: #f5f5f5 !important;
+  border: 1px solid #e0e0e0 !important;
+  border-radius: 0.6rem !important;
+  padding: 1.5rem !important;
+}
+
+/* Mobile adjustments */
+@media only screen and (max-width: 768px) {
+  #mastodon-title {
+    font-size: 2.6rem !important;
+    line-height: 3rem !important;
+  }
+
+  .mastodon-comment .author,
+  .mastodon-comment .content {
+    font-size: 1.6rem !important;
+    line-height: 1.6em !important;
+  }
+
+  .mastodon-comment .author .details .user {
+    font-size: 1.4rem !important;
+  }
+}
+
+/* Dark mode support */
+body.colorscheme-dark mastodon-comments {
+  --font-color: #dadada;
+}
+
+body.colorscheme-dark #mastodon-title {
+  color: #dadada !important;
+}
+
+body.colorscheme-dark .mastodon-comment {
+  background-color: #424242 !important;
+  border-color: #4f4f4f !important;
+}
+
+body.colorscheme-dark .mastodon-comment .author .details .name {
+  color: #dadada !important;
+}
+
+body.colorscheme-dark .mastodon-comment .author .details .user {
+  color: #42a5f5 !important;
+}
+
+body.colorscheme-dark .mastodon-comment .author .date {
+  color: #dadada !important;
+}
+
+body.colorscheme-dark .mastodon-comment a,
+body.colorscheme-dark .mastodon-comment .content a {
+  color: #42a5f5 !important;
+}
+
+body.colorscheme-dark #mastodon-stats a,
+body.colorscheme-dark .mastodon-comment .status a {
+  color: #dadada !important;
+}
+
+/* Auto color scheme (follows system preference) */
+@media (prefers-color-scheme: dark) {
+  body.colorscheme-auto mastodon-comments {
+    --font-color: #dadada;
+  }
+
+  body.colorscheme-auto #mastodon-title {
+    color: #dadada !important;
+  }
+
+  body.colorscheme-auto .mastodon-comment {
+    background-color: #424242 !important;
+    border-color: #4f4f4f !important;
+  }
+
+  body.colorscheme-auto .mastodon-comment .author .details .name {
+    color: #dadada !important;
+  }
+
+  body.colorscheme-auto .mastodon-comment .author .details .user {
+    color: #42a5f5 !important;
+  }
+
+  body.colorscheme-auto .mastodon-comment .author .date {
+    color: #dadada !important;
+  }
+
+  body.colorscheme-auto .mastodon-comment a,
+  body.colorscheme-auto .mastodon-comment .content a {
+    color: #42a5f5 !important;
+  }
+
+  body.colorscheme-auto #mastodon-stats a,
+  body.colorscheme-auto .mastodon-comment .status a {
+    color: #dadada !important;
+  }
+}

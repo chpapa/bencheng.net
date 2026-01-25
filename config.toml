@@ -10,7 +10,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "geekythings"
+# disqusShortname = "geekythings"  # Disabled - using Mastodon comments
 googleAnalytics = "UA-2687665-1"
 
 [params]
@@ -31,7 +31,8 @@ googleAnalytics = "UA-2687665-1"
     rtl = false
 
     math = true
-    custom_css = ["css/custom.css"]
+    customCSS = ["css/custom.css"]
+    customJS = ["js/mastodon-comments.js"]
 
 [params.fathomAnalytics]
     siteID = "1"
