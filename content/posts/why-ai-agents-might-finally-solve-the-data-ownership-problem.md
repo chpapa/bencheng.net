@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+mastodonToot = "https://oursky.social/@bencheng/115955667266094026"
 +++
 
 # Why AI Agents Might Finally Solve the Data Ownership Problem
